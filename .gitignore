@@ -1,0 +1,2 @@
+# ignore OSX meta data files
+.DS_Store
